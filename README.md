@@ -6,7 +6,7 @@
 - 🧑‍💻 Desenvolvo sites e landing pages de acordo com o design que o cliente necessita.
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/victor-augusto-010156297/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-augusto-010156297/)
 
 ## Tecnologias
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
