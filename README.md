@@ -14,4 +14,4 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ## Meus Projetos Recentes
-- [Portfólio]([https://github.com/seu-usuario/projeto-1](https://vta-portfolio.netlify.app/)) - No meu protfólio você encontra projetos acadêmicos que ja desenvolvi durante esses 2 anos.
+- [Portfólio](https://vta-portfolio.netlify.app/) - No meu protfólio você encontra projetos acadêmicos que ja desenvolvi durante esses 2 anos.
