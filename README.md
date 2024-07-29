@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=284682&width=435&lines=Ol%C3%A1%2C+eu+sou+Victor+Augusto;Desenvolvedor+front-end)](https://git.io/typing-svg)
 
 ## Sobre mim
-- 🌱 Desenvolvedor(a) Full Stack 2 anos. 
+- 🌱 Desenvolvedor(a) Full Stack há 2 anos. 
 - 📚 Atualmente aprendendo React.js e Node.js
 - 🧑‍💻 Desenvolvo sites e landing pages de acordo com o design que o cliente necessita.
 
