@@ -9,7 +9,11 @@ início até a entrega final. Tenho experiência prática em controle de versão
 GitHub, garantindo um fluxo de trabalho organizado e colaborativo.
 
 ## Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,cs,github,materialui,figma)](https://skillicons.dev)
+
+HTML | CSS | JAVASCRIPT | REACT | NODE.JS | C# | GIT | GITHUB | MUI | FIGMA 
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,cs,github,materialui,figma)](https://skillicons.dev)
+
 
 ## Meus Projetos Recentes
  - No meu protfólio você encontra projetos acadêmicos que ja desenvolvi durante esses 2 anos.
