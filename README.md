@@ -12,7 +12,8 @@ GitHub, garantindo um fluxo de trabalho organizado e colaborativo.
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,cs,github,materialui,figma)](https://skillicons.dev)
 
 ## Meus Projetos Recentes
-- [Portfólio]([https://vta-portfolio.netlify.app/](https://vtazinnn.netlify.app/)) - No meu protfólio você encontra projetos acadêmicos que ja desenvolvi durante esses 2 anos.
+- [Portfólio] - No meu protfólio você encontra projetos acadêmicos que ja desenvolvi durante esses 2 anos.
+  https://vtazinnn.netlify.app/
 
 - ## Conecte-se comigo
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/victor-augusto-010156297/)
