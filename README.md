@@ -8,11 +8,13 @@ além de trabalhar com bibliotecas e frameworks modernos como Node.js e Material
 início até a entrega final. Tenho experiência prática em controle de versão usando Git e
 GitHub, garantindo um fluxo de trabalho organizado e colaborativo.
 
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-augusto-010156297/)
-
 ## Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,cs,github,materialui,figma)](https://skillicons.dev)
 
 ## Meus Projetos Recentes
-- [Portfólio](https://vta-portfolio.netlify.app/) - No meu protfólio você encontra projetos acadêmicos que ja desenvolvi durante esses 2 anos.
+- [Portfólio]([https://vta-portfolio.netlify.app/](https://vtazinnn.netlify.app/)) - No meu protfólio você encontra projetos acadêmicos que ja desenvolvi durante esses 2 anos.
+
+- ## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-augusto-010156297/)
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/victor-augusto-010156297/)
