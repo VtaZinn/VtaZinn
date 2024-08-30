@@ -15,6 +15,4 @@ GitHub, garantindo um fluxo de trabalho organizado e colaborativo.
 - [Portfólio]([https://vta-portfolio.netlify.app/](https://vtazinnn.netlify.app/)) - No meu protfólio você encontra projetos acadêmicos que ja desenvolvi durante esses 2 anos.
 
 - ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-augusto-010156297/)
-
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/victor-augusto-010156297/)
